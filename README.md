@@ -1,2 +1,1 @@
 # insurance
-projects
